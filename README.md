@@ -3,6 +3,7 @@
 
 
 01 股票归因分析（年频数据）
+
 ✅ 环境准备与数据库连接
 引入库：pandas, numpy, matplotlib, sqlalchemy, re, warnings
 
@@ -90,6 +91,7 @@
 函数：ask_ai()
 
 内容：基于 combined_content + 财务数据 + 风格标签，自动生成上涨/下跌原因
+
 
 02 选股验证分析（季频数据）
 ✅ 季度财务样本构建
