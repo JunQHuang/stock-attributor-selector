@@ -1,4 +1,4 @@
-# stock-attributor-selector
+# stock-attributor-selector + lightgbm + autotrade
 
 本项目构建了一个面向 A 股市场的系统化股票风格分类与归因分析平台，并集成了基于 LightGBM + 77个Alpha因子的量化交易系统。
 
