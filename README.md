@@ -2,13 +2,10 @@
 
 **基于120个量价因子的机器学习多因子选股策略，支持灵活配置与自动交易**
 
-****
 
-![image-20260123020222985](C:\Users\qq100\AppData\Roaming\Typora\typora-user-images\image-20260123020222985.png)
+<img width="2226" height="1277" alt="3aa37446a0b6bedfeb20efb92f017521" src="https://github.com/user-attachments/assets/9a792452-2ada-476f-924a-68c947028888" />
 
----
-
-## ![image-20260123020151540](C:\Users\qq100\AppData\Roaming\Typora\typora-user-images\image-20260123020151540.png)
+![5d0658376735df78a0e70edacb6b079b](https://github.com/user-attachments/assets/3d8ae97b-8c90-4483-9a40-e9c5e87e3eb6)
 
 ## 📊 系统简介
 
@@ -16,9 +13,9 @@
 
 ### 核心特性
 
-- **灵活配置**: 支持高风险进攻型少数选股(5-10只)，也支持低风险防御型大量选股(20-30只)
+- **灵活配置**: 支持高风险进攻型少数选股(10-20只)，也支持低风险防御型大量选股(100-200只)
 
-- **自动交易**: 生成CSV文件，支持PTrade或同花顺篮子交易
+- **自动交易**: 生成CSV文件，支持PTrade或同花顺篮子交易，目前在ptrade实盘回测，欢迎交流使用~
 
 - **严格回测**: T-1日生成信号，T日尾盘执行，无前视偏差
 
