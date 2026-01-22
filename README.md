@@ -31,9 +31,6 @@
 
 ## 🚀 快速开始
 
-
-​```bash
-
 # 更新数据并生成最新信号
 
 python run_daily.py
@@ -83,8 +80,6 @@ python run_daily.py
 ## ⚙️ 配置说明
 
 ### 选股数量配置
-
-​```python
 
 # 高风险进攻型 (集中持仓)
 
