@@ -5,7 +5,8 @@
 
 <img width="2226" height="1277" alt="3aa37446a0b6bedfeb20efb92f017521" src="https://github.com/user-attachments/assets/9a792452-2ada-476f-924a-68c947028888" />
 
-![5d0658376735df78a0e70edacb6b079b](https://github.com/user-attachments/assets/3d8ae97b-8c90-4483-9a40-e9c5e87e3eb6)
+<img width="2243" height="1289" alt="6e209a8e4bb29c3ae608eb03530fed7a" src="https://github.com/user-attachments/assets/32682532-5397-4c76-8d23-ea74a26c9233" />
+
 
 ## 📊 系统简介
 
