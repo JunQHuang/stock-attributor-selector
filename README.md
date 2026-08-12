@@ -6,6 +6,21 @@
 
 > 本仓库公开的是研究范式，不是完整生产系统。示例结果来自合成数据，不构成投资建议，也不代表任何实际策略表现。
 
+## 项目截图
+
+<div align="center">
+
+<img width="48%" height="auto" alt="量化投研系统截图 1" src="https://github.com/user-attachments/assets/043c0340-7e5d-4cf7-97c8-dc663d4c0e62" />
+
+<img width="48%" height="auto" alt="量化投研系统截图 2" src="https://github.com/user-attachments/assets/c556c11e-0a76-4d5d-ae6a-cd96ff9ce1fd" />
+<img width="48%" height="auto" alt="量化投研系统截图 3" src="https://github.com/user-attachments/assets/587865b1-9123-4e8a-9586-d603fdb015e0" />
+<img width="48%" height="auto" alt="量化投研系统截图 4" src="https://github.com/user-attachments/assets/f6f297b3-c2e5-44a0-ac91-e3ce5f7168f1" />
+
+<img width="48%" height="auto" alt="量化投研系统截图 5" src="https://github.com/user-attachments/assets/32809db5-e655-4b92-9216-17329c0c9a7c" />
+</div>
+
+图片展示的是原项目产品形态；本仓库公开代码仅提供研究范式。图片仅供参考，不构成投资建议。
+
 ## 为什么这个版本有实际参考价值
 
 它不只是一个模型调用示例，而是覆盖了多因子研究中容易做错的关键环节：
